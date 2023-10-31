@@ -11,4 +11,18 @@
 
 ## Introdução ao Desenvolvimento e Criação de Jogos:
 
-[Play Store]( 
+[Creative Commons](https://creativecommons.org/)
+[BlueStacks](https://www.bluestacks.com/pt-br/index.html)
+[Google Play Console](https://developer.android.com/distribute/console?hl=pt-br)
+[Apple Developer](https://developer.apple.com/)
+[Kongregate](https://www.kongregate.com/)
+[Game Jolt](https://gamejolt.com/)
+[Xbox Game Development](https://learn.microsoft.com/en-us/gaming/xbox/)
+[Nintendo Developer Portal](https://developer.nintendo.com/)
+[Sony's Developer Portal](https://developer.sony.com/)
+[Roblox Creator Hub](https://create.roblox.com/docs/pt-br)
+[Minecraft Creator Learning Portal](https://www.minecraft.net/pt-pt/creator)
+
+
+
+
