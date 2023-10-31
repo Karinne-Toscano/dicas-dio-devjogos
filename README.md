@@ -23,6 +23,19 @@
 [Roblox Creator Hub](https://create.roblox.com/docs/pt-br)
 [Minecraft Creator Learning Portal](https://www.minecraft.net/pt-pt/creator)
 
+## Versionamento de Código com Git e GitHub:
 
+[Documentação Git](https://git-scm.com/doc)
+[Gitfluence](https://www.gitfluence.com/)
+[Documentação GitHub](https://docs.github.com/pt)
+[GitHub Desktop](https://desktop.github.com/)
+[Readme.so](https://readme.so/pt)
+[Chocolatey](https://chocolatey.org/)
 
+## Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso:
 
+[Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+## Contribuindo em um Projeto Open Source no GitHub:
+
+Em breve
