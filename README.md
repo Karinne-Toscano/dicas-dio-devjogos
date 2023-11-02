@@ -56,6 +56,52 @@
 
 [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
-## Contribuindo em um Projeto Open Source no GitHub:
+[GitHub Docs - Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
 
-Em breve
+[GitHub - Contribuir para Projetos](https://docs.github.com/pt/get-started/quickstart/contributing-to-projects)
+
+[GitHub - Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[GitHub - Como escrever no GitHub](https://docs.github.com/pt/get-started/writing-on-github)
+
+[GitHub - Conventional Commits](https://github.com/conventional-commits/conventionalcommits.org)
+
+[GitHub - Etiquetas](https://docs.github.com/pt/issues/using-labels-and-milestones-to-track-work/managing-labels)
+
+[GitHub - Licenças](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+
+[GitHub - Profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+
+[Visual Studio Code](https://code.visualstudio.com/)
+
+## Entendendo comunicação Client x Server
+
+[Primeiro website criado](https://info.cern.ch/)
+
+[W3C Brasil](https://w3c.br/)
+
+[O que é um Servidor Web (Web Server)?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
+
+[Windows Server 2022](https://www.microsoft.com/pt-br/windows-server)
+
+[Ubuntu Server](https://ubuntu.com/download/server)
+
+[HTML Reference - Browser Support](https://www.w3schools.com/tags/ref_html_browsersupport.asp)
+
+[DNS: o que é, como funciona e qual escolher?](https://www.alura.com.br/artigos/dns-o-que-e-qual-escolher?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=645853715422&hsa_src=g&hsa_tgt=aud-409949667324:dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwkY2qBhBDEiwAoQXK5XjBXzv2vCgfKXzB1uEQx8bYriPSmoAlWm2F7SXkxopEbpiDhyvw6xoCZ1oQAvD_BwE)
+
+[Servidor Proxy: O que é, como funciona e para que serve](https://www.hostinger.com.br/tutoriais/servidor-proxy)
+
+[O que é um Firewall?](https://support.microsoft.com/pt-br/office/o-que-%C3%A9-um-firewall-6870c88d-69b6-4db4-9cb1-0e4afa7a8603)
+
+[O Que é FTP e Como Funciona esse Protocolo](https://www.hostinger.com.br/tutoriais/ftp-o-que-e-como-funciona)
+
+[FileZilla](https://filezilla-project.org/)
+
+[Qual é a diferença entre HTTP e HTTPS?](https://www.alura.com.br/artigos/qual-e-diferenca-entre-http-e-https?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=645853715422&hsa_src=g&hsa_tgt=aud-539280195004:dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwkY2qBhBDEiwAoQXK5czj2Gx8Mw7Hf666CZEc5xx0TJDFrUfggzCpjodraF-vQkpGL3u-ZRoCR3cQAvD_BwE)
+
+[O que é Intranet?](https://tecnoblog.net/responde/o-que-e-intranet/)
+
+[Domínio e Hospedagem de Sites: Conceitos e Diferenças](https://www.hostinger.com.br/tutoriais/diferenca-entre-dominio-e-hospedagem?ppc_campaign=google_search_generic_hosting_all&bidkw=defaultkeyword&lo=1001773&gad_source=1&gclid=CjwKCAjwkY2qBhBDEiwAoQXK5VHiPC_9hETR5BvGcst0U0gdGshaSrhGl90IBK_mGSbeZH9JfkLVWBoCqvQQAvD_BwE)
+
+[Registro.br](https://www.nic.br/pagina/nicbr-atividades-registro-br/159/)
