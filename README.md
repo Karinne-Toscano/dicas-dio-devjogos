@@ -105,3 +105,9 @@
 [Domínio e Hospedagem de Sites: Conceitos e Diferenças](https://www.hostinger.com.br/tutoriais/diferenca-entre-dominio-e-hospedagem?ppc_campaign=google_search_generic_hosting_all&bidkw=defaultkeyword&lo=1001773&gad_source=1&gclid=CjwKCAjwkY2qBhBDEiwAoQXK5VHiPC_9hETR5BvGcst0U0gdGshaSrhGl90IBK_mGSbeZH9JfkLVWBoCqvQQAvD_BwE)
 
 [Registro.br](https://www.nic.br/pagina/nicbr-atividades-registro-br/159/)
+
+[The RedMonk Programming Language Rankings: January 2023](https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23/)
+
+[What is V8?](https://v8.dev/)
+
+[Node.js](https://nodejs.org/en)
